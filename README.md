@@ -81,9 +81,9 @@
 ## Install with Docker
 
 ```sh
-docker build --build-arg TMDB_V3_API_KEY=your_api_key_here -t netflix-clone .
+docker build --build-arg TMDB_V3_API_KEY=your_api_key_here -t streamany .
 
-docker run --name netflix-clone-website --rm -d -p 80:80 netflix-clone
+docker run --name streamany-website --rm -d -p 80:80 streamany
 ```
 
 ## Todo

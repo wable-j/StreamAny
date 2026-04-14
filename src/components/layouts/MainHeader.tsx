@@ -111,7 +111,7 @@ const MainHeader = () => {
             textDecoration: "none",
           }}
         >
-          Netflix
+          StreamAny
         </Typography>
         <Stack
           direction="row"
